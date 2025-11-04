@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    TALON-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : TALON-MD
+//  * @author : TALON Official
+//  * @youtube : https://www.youtube.com/@MutsautalonTech
+//  * @description : TALON-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//base by Talon Official
+//GitHub: @Talonlofficial23
+//WhatsApp: +263787780586
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@MutsautalonTech
+//   * Created By Github: mutsautalon6-create.
+//   * Credit To Talon Official
+//   * © 2024 TALON-MD-V7.
 // ⛥┌┤
 // */
 
