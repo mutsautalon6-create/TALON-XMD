@@ -22,7 +22,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Manu-MD Bot repository to your GitHub account:
+Click the button below to fork the TALON-MD Bot repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/mutsautalon6-create/TALON-XMD/fork">
