@@ -1,18 +1,18 @@
-# 🤖 Manu-MD WA Bot V7 ( With Full Buttons ) 💗
+# 🤖 TALON-MD WA Bot V7 ( With Full Buttons ) 💗
 
-## Manu-MD Bot යනු සම්පූර්ණ බටන් රොබෝ කෙනෙකි...❤
+## TALON-MD Bot යනු සම්පූර්ණ බටන් රොබෝ කෙනෙකි...❤
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Manu-MD;Multi+Device+Whatsapp+Bot;Coded+By+Manul+Official" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=TALON-MD;Multi+Device+Whatsapp+Bot;Coded+By+Talons+Official" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@ManulOfficialTech"> 
-    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="Manu-MD WA Bot" height="300" width="650">
+  <a href="https://youtube.com/@TalonsOfficialTech"> 
+    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="TALON-MD WA Bot" height="300" width="650">
   </a> 
 </div>
 
@@ -25,7 +25,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Manu-MD Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/Manu-XMD/Manu-XMD/fork">
+  <a href="https://github.com/mutsautalon6-create/TALON-XMD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -65,7 +65,7 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtube.com/@manulofficialtech?si=Dm30fopW3C4RZqD7">
+  <a href="https://youtube.com/@talonsofficialtech?si=Dm30fopW3C4RZqD7">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://dashboard.katabump.com/auth/login#fa7e97">
@@ -79,13 +79,13 @@ For further customization and setup guidance, click the button below:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Manu-XMD/Manu-XMD)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mutsautalon6-create/TALON-XMD)
 
-[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/Manu-XMD/Manu-XMD)
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/mutsautalon6-create-/TALON-XMD)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Manu-XMD/Manu-XMD&branch=main&name=manumd)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mutsautalon6-create/TALON-XMD&branch=main&name=talonmd)
 
-[![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Fmanumd%3Fduplicate%3Dtrue)
+[![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Ftalonmd%3Fduplicate%3Dtrue)
 
 ### Additional Hosting Panels
 
@@ -227,8 +227,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Manu-XMD/Manu-XMD.git
-    cd Manu-XMD
+    git clone https://github.com/mutsautalon6-create/TALON-XMD.git
+    cd TALON-XMD
     ```
 
 2. **Install the dependencies:**
@@ -240,7 +240,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 3. **Run the bot:**
 
     ```bash
-    node manu.js
+    node Node.js
     ```
 
 4. **Scan the QR code:**
@@ -252,24 +252,24 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Manu-XMD/Manu-XMD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mutsautalon6-create/TALON-XMD/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Manu-XMD/Manu-XMD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mutsautalon6-create/TALON-XMD/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/Manu-XMD/Manu-XMD)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mutsautalon6-create/TALON-XMD)!
 
 
 ## Credits
 
-- [Manul-Official](https://github.com/Manu-XMD)
+- [Talons-Official](https://github.com/TALON-XMD)
 - [Vajira-Tech](https://github.com/VajiraOfficial)
 - [Gaming-Rash](https://github.com/Mrrashmika)
 ---
@@ -295,7 +295,7 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚. All rights reserved.
+Copyright (c) 2024 𝐌𝐑 TALONS 𝐎𝐅𝐂 💚. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
